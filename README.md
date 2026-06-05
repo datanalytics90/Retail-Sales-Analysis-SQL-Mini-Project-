@@ -4,6 +4,9 @@
 
 A complete SQL-based retail sales analysis project covering database setup, data cleaning, exploratory data analysis (EDA), and 10 business-driven queries. Built to demonstrate core data analyst skills using MySQL.
 
+## 📁 Reports Document:
+(https://docs.google.com/document/d/1sSCHQ4VHJWjxNElRP9zoYmC1jA3otX2Y/edit?usp=sharing&ouid=108349178558494157171&rtpof=true&sd=true)
+
 ---
 
 ## 📁 Project Structure
